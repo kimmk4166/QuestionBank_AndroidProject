@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_subscribe"
+        android:icon="@drawable/ic_subscribe"
+        android:title="@string/title_subscribe" />
+
+    <item
+        android:id="@+id/navigation_myPage"
+        android:icon="@drawable/ic_mypage"
+        android:title="@string/title_myPage" />
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_video"
+        android:icon="@drawable/ic_video"
+        android:title="@string/title_video" />
+
+    <item
+        android:id="@+id/navigation_seeMore"
+        android:icon="@drawable/ic_see_more"
+        android:title="@string/title_seeMore" />
+
+
+
+</menu>
